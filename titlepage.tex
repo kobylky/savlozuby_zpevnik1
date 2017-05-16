@@ -1,0 +1,31 @@
+\begin{titlepage}
+\newgeometry{inner=5mm,outer=5mm,top=7mm,bottom=6mm,footskip=7mm}
+\begin{center}
+\ \\
+\vspace{5mm}
+{
+% These fonts were tried
+%\fontshape{sc}
+%\usefont{T1}{LibreBaskerville-TLF}{m}{n}
+%\usefont{T1}{yvtajw}{m}{sc}
+%\usefont{T1}{yvtajw}{m}{sc}
+%\usefont{T1}{antt}{m}{sc}
+%\usefont{T1}{Heuristica-TLF}{m}{sc}
+\usefont{OT1}{bsk}{m}{sc} % nakonec používám font Boisik, který vyžaduje kódování OT1
+% a ne T1, používám Roman series (m) a small caps shape (sc)
+{\fontsize{40}{50}\selectfont
+\songbooktitle\\\vspace{10mm}
+\volumetext
+}\\%
+\iflyric\vspace{5mm}%
+{\Large\onlylyrictext}\\\vspace{9mm}
+\else%
+\vspace{20mm}
+\fi%
+\includegraphics[width=.35\textwidth]{logo.png}
+\\\vfill
+{\hspace{5mm} verze: \version\hfill \the\year\hspace{5mm}}
+}
+\end{center}
+\end{titlepage}
+\restoregeometry

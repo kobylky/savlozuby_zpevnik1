@@ -1,0 +1,178 @@
+\def\songspar{chorded} % use chorded, lyric or slide to change the output style
+
+\input{header} % includes all packages and defines custom macros
+
+\def\version{2.0.0-beta.1} % this is displayed at the version position at title page
+
+\def\songbooktitle{Šavlozubý zpěvník} % title displayed at title page
+\def\volumetext{i. díl} % volume displayed at title page
+\def\onlylyrictext{(bez akordů)} % displayed at title page if only lyric version is used
+
+\def\songbookpdftitle{Šavlozubý zpěvník 1. díl} % pdf file title
+\def\songbookauthor{2. smečka vlčat Kobylky} % pdf file author
+
+% pdf file parameters setup
+\hypersetup{pdftitle=\songbookpdftitle,
+            pdfauthor=\songbookauthor}
+
+\begin{document}
+
+% titlepage
+\pagenumbering{roman} % sets page numbering style of title pages to roman
+\pagestyle{empty} % unsets pagenumbers at the bottom of the page
+\input{titlepage} % prints title page
+\cleardoublepage % clears to a next odd page
+
+% content
+
+% table of contents
+\pagenumbering{arabic} % sets page numbering style to arabic
+\setcounter{page}{1} % resets page counter to one
+\pagestyle{plain} % sets pagenumbers at the bottom of the page
+\renewcommand\indexname{Obsah} % sets name of the table of contents
+\printindex % prints table of contents
+\cleardoublepage % clears to a next odd page
+
+% songs
+\begin{songs}{} % begins songs environment
+
+\MultiwordChords % sets, that chords can span more words without explicit
+                 % specification, if you want to restrict chord only to the
+								 % specific part of the song, enclose it with the desired
+								 % part of the text in {} brackets
+
+% including files with songs
+\input{pisne/1_signalni}
+\input{pisne/a_te_rehradice}
+\input{pisne/az_to_se_mnu_sekne}
+\input{pisne/beda_porazenym}
+\input{pisne/burlaci}
+\input{pisne/az_se_k_nam_pravo_vrati}
+\input{pisne/amerika}
+\input{pisne/bon_soir_mademoiselle_paris}
+\input{pisne/cesta}
+\input{pisne/dva_havrani}
+\input{pisne/co_na_tom_je_tak_zleho}
+\input{pisne/cert_vi_kdy_kotvy_zvednem}
+\input{pisne/huslicky}
+\input{pisne/dopis}
+\input{pisne/amazonka}
+\input{pisne/divka_s_perlami_ve_vlasech}
+\input{pisne/dobrodruzstvi_s_bohem_panem}
+\input{pisne/dotknu_se_ohne}
+\input{pisne/gaudeamus_igitur}
+\input{pisne/greensleeves}
+\input{pisne/hallelujah}
+\input{pisne/hvezdar}
+\input{pisne/hrala_mi_julii}
+\input{pisne/carpe_diem}
+\input{pisne/hey_jude}
+\input{pisne/hobo}
+\input{pisne/holky_z_nasi_skolky}
+\input{pisne/hrobar}
+\input{pisne/isiel_macek_do_malacek}
+\input{pisne/hvezdy_nad_hlavou}
+\input{pisne/indiana}
+\input{pisne/linda}
+\input{pisne/chacha}
+\input{pisne/knockin_on_heavens_door}
+\input{pisne/chci_zas_v_tobe_spat}
+\input{pisne/dve_spaleny_srdce}
+\input{pisne/i_dont_know_how_to_love_him}
+\input{pisne/lasko_ma_ja_stunu}
+\input{pisne/island}
+\input{pisne/jantarova_zeme}
+\input{pisne/jacek}
+\input{pisne/jdem_zpatky_do_lesu}
+\input{pisne/jednou_mi_fotr_povida}
+\input{pisne/karavana_mraku}
+\input{pisne/kazdy_mi_te_lasko_zavidi}
+\input{pisne/kluziste}
+\input{pisne/hlupak_vaha}
+\input{pisne/kral_a_klaun}
+\input{pisne/krupobiti}
+\input{pisne/my_bonnie_lies_over_the_ocean}
+\input{pisne/ktoz_jsu_bozi_bojovnici}
+\input{pisne/limportant_cest_la_rose}
+\input{pisne/laska_je_tu_s_nami}
+\input{pisne/milenci_v_texaskach}
+\input{pisne/lasko}
+\input{pisne/mala_dama}
+\input{pisne/malagelo}
+\input{pisne/namornicka}
+\input{pisne/maly_velky_muz}
+\input{pisne/mavatka}
+\input{pisne/jarni_tani}
+\input{pisne/mikymauz}
+\input{pisne/marie}
+\input{pisne/mississippi_blues}
+\input{pisne/mozna_ze_se_mylim}
+\input{pisne/mimorealita}
+\input{pisne/muzeum}
+\input{pisne/jeste_mi_chvilku_zpivej}
+\input{pisne/moderni_devce}
+\input{pisne/modra}
+\input{pisne/mys_horn}
+\input{pisne/peterburg}
+\input{pisne/nad_stadem_koni}
+\input{pisne/napojen}
+\input{pisne/variace_na_renesancni_tema}
+\input{pisne/nonstop}
+\input{pisne/obchodnik_s_destem}
+\input{pisne/pekna_pekna_pekna}
+\input{pisne/plebs_blues}
+\input{pisne/pisen_neznameho_vojina}
+\input{pisne/pocity}
+\input{pisne/podvod}
+\input{pisne/prachovske_skaly}
+\input{pisne/proklinam}
+\input{pisne/predpoved_pocasi}
+\input{pisne/pritel}
+\input{pisne/naha}
+\input{pisne/rana_v_trave}
+\input{pisne/ve_skrini}
+\input{pisne/ruze_kvetou_dal}
+\input{pisne/ruze_z_papiru}
+\input{pisne/salome}
+\input{pisne/sametova}
+\input{pisne/sandokan}
+\input{pisne/sarajevo}
+\input{pisne/saro}
+\input{pisne/scarborough_fair}
+\input{pisne/sen}
+\input{pisne/sladke_mameni}
+\input{pisne/slepic_pirka}
+\input{pisne/slib}
+\input{pisne/smutno_je_mi}
+\input{pisne/stin_katedral}
+\input{pisne/tak_nejak_malo_tancim}
+\input{pisne/tak_sel_cas}
+\input{pisne/the_sound_of_silence}
+\input{pisne/trail_to_island}
+\input{pisne/touha}
+\input{pisne/traktor}
+\input{pisne/vzpominky}
+\input{pisne/trubadurska}
+\input{pisne/tulak}
+\input{pisne/tunel_jmenem_cas}
+\input{pisne/vrana}
+\input{pisne/what_shall_we_do_with_the_drunken_sailor}
+\input{pisne/zafukane}
+\input{pisne/zatanci}
+\input{pisne/zatimco_se_koupes}
+\input{pisne/ze_vsech_chlapu_nejstastnejsi_chlap}
+\input{pisne/zelene_plane}
+\input{pisne/zkamenely_dite}
+\input{pisne/zlatokop_tom}
+\input{pisne/znamka_punku}
+\input{pisne/zizen}
+
+\end{songs} % ends songs environment
+
+% print last page
+\cleartofourthpage{2} % Clears to the last page. It assumes that you print
+                      % on A4 pages which will contain 4 A5 pages (two sided
+											% printing of booklet)
+\input{copyrightpage} % print the last page
+
+\end{document}
