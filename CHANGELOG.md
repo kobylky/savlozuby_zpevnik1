@@ -82,6 +82,8 @@ Formát tohoto changelogu je založen na
 - Odstraněno `ja chci žít` na konci 2. sloky písně `Nonstop`.
 - Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
 - Lehce posunuto několik akordů v písni `Sametová`.
+- Lehce posunuto několik akordů v písni `Ve skříni`.
+
 
 ### Odstraněno
 
@@ -130,6 +132,7 @@ Formát tohoto changelogu je založen na
 - Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
 - Překlepy.
 - Lehce posunuto několik akordů v písni `Sametová`.
+- Lehce posunuto několik akordů v písni `Ve skříni`.
 
 
 ### Odstraněno

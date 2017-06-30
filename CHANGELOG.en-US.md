@@ -83,6 +83,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Removed last `ja chci žít` from the second verse of the `Nonstop` song.
 - Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
 - Slightly moved some chords in the `Sametová` song.
+- Slightly moved some chords in the `Ve skříni` song.
 
 
 ### Removed
@@ -133,6 +134,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
 - Typos.
 - Slightly moved some chords in the `Sametová` song.
+- Slightly moved some chords in the `Ve skříni` song.
 
 
 ### Removed
