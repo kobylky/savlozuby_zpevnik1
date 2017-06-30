@@ -63,6 +63,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Changed key of the `Podvod` song to the F minor. 
 - The trailing `C` chord was changed to `G` in verse of the `Kluziště` song.
 - Repetitive part of verse was moved to `*:` in the `Podvod` song.
+- Redundant chord `Dmi` was removed from the verse and `G` and `A7` chords were
+  added at the end of the `Předpověď počasí` song.
 
 
 ### Fixed
@@ -102,6 +104,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - The trailing `C` chord was changed to `G` in verse of the `Kluziště` song.
 - Repetitive part of verse was moved to `*:` in the `Podvod` song.
+- Redundant chord `Dmi` was removed from the verse and `G` and `A7` chords were
+  added at the end of the `Předpověď počasí` song.
 
 
 ## [Version 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)

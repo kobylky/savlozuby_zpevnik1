@@ -64,6 +64,8 @@ Formát tohoto changelogu je založen na
 - Tónina písně `Podvod` byla změněna na F moll.
 - V písni `Kluziště` změněn ve sloce poslední akord `C` na `G`.
 - V písni `Podvod` byl opakující se úryvek sloky převeden do `*:`.
+- V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
+  refrénu byly přidány akordy `G` a `A7`.
 
 
 ### Opraveno
@@ -103,6 +105,8 @@ Formát tohoto changelogu je založen na
 
 - V písni `Kluziště` změněn ve sloce poslední akord `C` na `G`.
 - V písni `Podvod` byl opakující se úryvek sloky převeden do `*:`.
+- V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
+  refrénu byly přidány akordy `G` a `A7`.
 
 
 ## [Verze 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
