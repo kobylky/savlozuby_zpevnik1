@@ -67,6 +67,7 @@ Formát tohoto changelogu je založen na
 - V písni `Podvod` byl opakující se úryvek sloky převeden do `*:`.
 - V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
   refrénu byly přidány akordy `G` a `A7`.
+- Poslední řádek písně `Sen` byl trochu pozměněn.
 
 
 ### Opraveno
@@ -112,6 +113,7 @@ Formát tohoto changelogu je založen na
   refrénu byly přidány akordy `G` a `A7`.
 - V posledním refrénu písně `Sáro` byl změněn akord `F` na `Ami` a `C` na
   `Emi`.
+- Poslední řádek písně `Sen` byl trochu pozměněn.
 
 
 ### Opraveno
@@ -163,7 +165,7 @@ Formát tohoto changelogu je založen na
 - Akord `A` na konci první řádky písně `Nonstop` byl přesunut na začátek
   následující řádky.
 - Byly změněny recitativy v písni `Prachovské skály`.
-- Tónina písně `Podvod` byla změněna na F moll. 
+- Tónina písně `Podvod` byla změněna na F moll.
 
 
 ### Opraveno

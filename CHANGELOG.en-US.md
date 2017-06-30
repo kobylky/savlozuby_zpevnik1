@@ -67,6 +67,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   added at the end of the `Předpověď počasí` song.
 - `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
   `Sáro` song.
+- The last line of the `Sen` song was slightly changed.
 
 
 ### Fixed
@@ -115,6 +116,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   added at the end of the `Předpověď počasí` song.
 - `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
   `Sáro` song.
+- The last line of the `Sen` song was slightly changed.
 
 
 ### Fixed
