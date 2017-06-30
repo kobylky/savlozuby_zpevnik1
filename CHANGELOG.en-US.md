@@ -108,7 +108,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Some trailing chords were removed in the `Zkamenělý dítě` song.
 
 
-### [Changes from beta 1:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...develop)
+### [Changes from beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...develop)
+
+
+## [Version 2.0.0-beta.2 *(2017-06-30)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...v2.0.0-beta.2)
 
 
 ### Added
