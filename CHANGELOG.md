@@ -1,151 +1,171 @@
+[_English_](CHANGELOG.en-US.md)
+
+
 # Change Log
-All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/) 
-and this project adheres to [Semantic Versioning](http://semver.org/).
+Všechny důležité změny tohoto projektu jsou dokumentovány v tomto souboru.
 
-
-### Version changes:
-- **major version:**
-  - the pagination of the songs from a previous release changes
-  - a song is added or removed
-- **minor version:**
-  - some song or its part is transposed to a different key
-  - a new verse is added but the pagination preserves
-- **patch version**
-  - only some chords are changed
-  - typos are corrected 
+Formát tohoto changelogu je založen na
+[Keep a Changelog](http://keepachangelog.com/) a řídí se
+[Semantickým Verzováním](http://semver.org/lang/cs/).
 
 
-## [Unreleased](https://github.com/kobylky/savlozuby_zpevnik1/compare/master...develop)
+### Pravidla pro verzování:
+
+- **major verze:**
+  - změna číslování stran vůči předchozí verzi
+  - je přidána nebo ubrána píseň
+- **minor verze:**
+  - některá z písní je transponována do jiné tóniny
+  - je přidána nová sloka, ale nezmění se čísla stran písní
+- **patch verze**
+  - jenom některé akordy jsou změněny
+  - jsou opraveny překlepy, gramatické a pravopisné chyby 
 
 
-### Added
-
-- Added compilation instructions and installation instructions for LaTeX and
-  Songs package for Windows to `README.md` and `README.en-US.md`.
-- Added 6th verse to the `Mikymauz` song.
-- Added coda to the `Dotknu se ohně` song.
-- Added `D` chord to the first line of refrain of the `Greensleeves` song.
-- Added coda to the `Mikymauz` song.
-- Added trailing `C` chord at the the end of verse of the pocity song.
-- Added chords to the coda of the `Tulák` song.
-- Added chords to the end of the 4th verse of the `Vrána` song.
-- Added repetition in the coda of the `Zkamenělý dítě` song.
-- Added bridges to the `Známka punku` song.
+## [Nepublikováno](https://github.com/kobylky/savlozuby_zpevnik1/compare/master...develop)
 
 
-### Changed
+### Přidáno
 
-- Changed to LaTeX backend.
-- Changed pagination and song order.
-- Added `H` chord and changed `H` to `B` in `*:` part of the `Burlaci` song.
-- `Tak se mi zdá` and `Otoč se a podívej` were moved into the refrains in the
-  `Burlaci` song.
-- Moved last two lines to coda in `Dvě spálený srdce` song.
-- Chords in the `:*` part of the `Hvězdy nad hlavou` song were raised by
-  semitone.
-- The key of the `Chci zas v tobě spát` song was changed to C major.
-- Changed `D` to `D7` at the beginning and `H` to `G+` at the end and removed
-  trailing `C G` chords in the `Král a klaun` song.
-- Changed chords on the 3rd line of the `Ktož jsú boží bojovníci` song and
-  removed the `Emi` chord from the first line of refrain.
-- Changed the key of the `Malá dáma` song to A minor.
-- The coda of the `Nad stádem koní` song was squished.
-- The `A` chord at the end of the first line was moved to the beginning of the
-  next line in the `Nonstop` song.
-- Changed recitatives in the `Prachovské skály` song.
-- Changed key of the `Podvod` song to the F minor. 
+- Přidán návod na kompilaci a instalaci LaTeXu a balíčku Songs pro Windows do
+  `README.md` a `README.en-US.md`.
+- Přidána 6. sloka do písně `Mikymauz`.
+- Přidána coda do písně `Dotknu se ohně`.
+- Přidán akord `D` na prvním řádku refrénu písně `Greensleeves`.
+- Přidána coda do písně `Mikymauz`.
+- Přidán závěrečný akord `C` na konci sloky v písni `Pocity`.
+- Přidány akordy ke codě v písni `Tulák`.
+- Přidány akordy na konec 4. sloky písně `Vrána`.
+- Přidána repetice v codě písně `Zkamenělý dítě`.
+- Přidány bridge do písně `Známka punku`.
+- Přidán český `CHANGELOG`.
 
 
-### Fixed
+### Změněno
 
-- Fixed many typos.
-- Added missing first line to the 3rd verse of the `Trail to Island` song.
-- Added repetition to the refrain of the `Traktor` song.
-- Removed last `ja chci žít` from the second verse of the `Nonstop` song.
+- Zpěvník byl převeden do LaTeXu.
+- Změna stránkovaní a pořadí písní.
+- Přidán akord `H` a změněn akord `H` na `B` v `*:` části písně `Burlaci`.
+- `Tak se mi zdá` a `Otoč se a podívej` byly přesunuty do refrénu v písni
+  `Burlaci`.
+- Poslední dva řádky písně `Dvě spálený srdce` byly přesunuty do coda.
+- Akordy v `:*` části písně `Hvězdy nad hlavou` byly zvýšený o půltón.
+- Tónina písně `Chci zas v tobě spát` byla změněna na C moll.
+- Akord `D` byl změněn na `D7` na začátku sloky a `H` na `G+` na konci a
+  přesahující akordy `C G` byly odebrány z písně `Král a klaun`.
+- Změněny akordy na 3 řádce písně `Ktož jsú boží bojovníci` a odebrán akord
+  `Emi` z první řádky refrénu.
+- Tónina písně `Malá dáma` byla změněna na A moll.
+- Coda písně `Nad stádem koní` byla zmenšena.
+- Akord `A` na konci první řádky písně `Nonstop` byl přesunut na začátek
+  následující řádky.
+- Byly změněny recitativy v písni `Prachovské skály`.
+- Tónina písně `Podvod` byla změněna na F moll. 
 
 
-### Removed
+### Opraveno
 
-- Some songs were shortend by inserting repetitions (`1. signální`, `Amerika`,
+- Mnoho překlepů.
+- Přidána chybějící první řádka 3. sloky v písni `Trail to Island`.
+- Přidána repetice v refrénu písně `Traktor`.
+- Odstraněno `ja chci žít` na konci 2. sloky písně `Nonstop`.
+
+
+### Odstraněno
+
+- Některé písně byly zkráceny použitím repetice (`1. signální`, `Amerika`,
   `Bon Soir Mademoiselle Paris`, `Čert ví kdy kotvy zvendem`, `Dva havrani`,
   `Dvě spálený srdce`, `Husličky`, `Hvězdář`, `Knockin' on heavens door`,
-  `Lásko má, já stůňu`, `Slepic pírka`, `Stín katedrál`) or removing repetitive
-  chords (`Amerika`, `Burlaci`, `Bon Soir Mademoiselle Paris`, `Cesta`, `Čert
-  ví kdy kotvy zvendem`, `Dívka s perlami ve vlasech`, `Dotknu se ohně`,
-  `Hlupák váhá`, `Holky z naší školky`, `Hvězdář`, `Indiana`, `Jdem zpátky do
-  lesů`, `Kluziště`, `Knockin' on heavens door`, `Lásko`, `Moderní děvče`,
-  `Modrá`, `Pocity`, `Rána v trávě`, `Růže z papíru`, `Sandokan`, `Sáro`,
+  `Lásko má, já stůňu`, `Slepic pírka`, `Stín katedrál`) nebo odstraněním
+  opakujících se akordů (`Amerika`, `Burlaci`, `Bon Soir Mademoiselle Paris`,
+  `Cesta`, `Čert ví kdy kotvy zvendem`, `Dívka s perlami ve vlasech`, `Dotknu
+  se ohně`, `Hlupák váhá`, `Holky z naší školky`, `Hvězdář`, `Indiana`, `Jdem
+  zpátky do lesů`, `Kluziště`, `Knockin' on heavens door`, `Lásko`, `Moderní
+  děvče`, `Modrá`, `Pocity`, `Rána v trávě`, `Růže z papíru`, `Sandokan`, `Sáro`,
   `Sen`, `Slepic pírka`, `Stín katedrál`, `Variace na renesanční téma`,
   `Vzpomínky`, `Zatanči`).
-- Removed trailing chords from the end of refrain of the `Možná, že se mýlím`
-  song.
-- Removed the intro of the `Zkamenělý dítě` song.
-
-### [Changes from beta 1:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...develop)
+- Odstraněny akordy na konci refrénu písně `Možná, že se mýlím`.
+- Odstraněno intro písně `Zkamenělý dítě`.
 
 
-## [Version 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
+### [Změny od verze beta 1:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...develop)
 
-### Added
-- Added compilation instructions and installation instructions for LaTeX and
-  Songs package for Windows to `README.md` and `README.en-US.md`.
-- Added 6th verse to the `Mikymauz` song.
-- Added coda to the `Dotknu se ohně` song.
-- Added `D` chord to the first line of refrain of the `Greensleeves` song.
-- Added coda to the `Mikymauz` song.
-- Added trailing `C` chord at the the end of verse of the pocity song.
-- Added chords to the coda of the `Tulák` song.
-- Added chords to the end of the 4th verse of the `Vrána` song.
-- Added repetition in the coda of the `Zkamenělý dítě` song.
-- Added bridges to the `Známka punku` song.
 
-### Changed
-- Changed to LaTeX backend.
-- Changed pagination and song order.
-- Added `H` chord and changed `H` to `B` in `*:` part of the `Burlaci` song.
-- `Tak se mi zdá` and `Otoč se a podívej` were moved into the refrains in the
-  `Burlaci` song.
-- Moved last two lines to coda in `Dvě spálený srdce` song.
-- Chords in the `:*` part of the `Hvězdy nad hlavou` song were raised by
-  semitone.
-- The key of the `Chci zas v tobě spát` song was changed to C major.
-- Changed `D` to `D7` at the beginning and `H` to `G+` at the end and removed
-  trailing `C G` chords in the `Král a klaun` song.
-- Changed chords on the 3rd line of the `Ktož jsú boží bojovníci` song and
-  removed the `Emi` chord from the first line of refrain.
-- Changed the key of the `Malá dáma` song to A minor.
-- The coda of the `Nad stádem koní` song was squished.
-- The `A` chord at the end of the first line was moved to the beginning of the
-  next line in the `Nonstop` song.
-- Changed recitatives in the `Prachovské skály` song.
-- Changed key of the `Podvod` song to the F minor. 
+### Přidáno
 
-### Fixed
-- Fixed many typos.
-- Added missing first line to the 3rd verse of the `Trail to Island` song.
-- Added repetition to the refrain of the `Traktor` song.
-- Removed last `ja chci žít` from the second verse of the `Nonstop` song.
+- Přidán český `CHANGELOG`.
 
-### Removed
-- Some songs were shortend by inserting repetitions (`1. signální`, `Amerika`,
+
+## [Verze 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
+
+
+### Přidáno
+
+- Přidán návod na kompilaci a instalaci LaTeXu a balíčku Songs pro Windows do
+  `README.md` a `README.en-US.md`.
+- Přidána 6. sloka do písně `Mikymauz`.
+- Přidána coda do písně `Dotknu se ohně`.
+- Přidán akord `D` na prvním řádku refrénu písně `Greensleeves`.
+- Přidána coda do písně `Mikymauz`.
+- Přidán závěrečný akord `C` na konci sloky v písni `Pocity`.
+- Přidány akordy ke codě v písni `Tulák`.
+- Přidány akordy na konec 4. sloky písně `Vrána`.
+- Přidána repetice v codě písně `Zkamenělý dítě`.
+- Přidány bridge do písně `Známka punku`.
+
+
+### Změněno
+
+- Zpěvník byl převeden do LaTeXu.
+- Změna stránkovaní a pořadí písní.
+- Přidán akord `H` a změněn akord `H` na `B` v `*:` části písně `Burlaci`.
+- `Tak se mi zdá` a `Otoč se a podívej` byly přesunuty do refrénu v písni
+  `Burlaci`.
+- Poslední dva řádky písně `Dvě spálený srdce` byly přesunuty do coda.
+- Akordy v `:*` části písně `Hvězdy nad hlavou` byly zvýšený o půltón.
+- Tónina písně `Chci zas v tobě spát` byla změněna na C moll.
+- Akord `D` byl změněn na `D7` na začátku sloky a `H` na `G+` na konci a
+  přesahující akordy `C G` byly odebrány z písně `Král a klaun`.
+- Změněny akordy na 3 řádce písně `Ktož jsú boží bojovníci` a odebrán akord
+  `Emi` z první řádky refrénu.
+- Tónina písně `Malá dáma` byla změněna na A moll.
+- Coda písně `Nad stádem koní` byla zmenšena.
+- Akord `A` na konci první řádky písně `Nonstop` byl přesunut na začátek
+  následující řádky.
+- Byly změněny recitativy v písni `Prachovské skály`.
+- Tónina písně `Podvod` byla změněna na F moll. 
+
+
+### Opraveno
+
+- Mnoho překlepů.
+- Přidána chybějící první řádka 3. sloky v písni `Trail to Island`.
+- Přidána repetice v refrénu písně `Traktor`.
+- Odstraněno `ja chci žít` na konci 2. sloky písně `Nonstop`.
+
+
+### Odstraněno
+
+- Některé písně byly zkráceny použitím repetice (`1. signální`, `Amerika`,
   `Bon Soir Mademoiselle Paris`, `Čert ví kdy kotvy zvendem`, `Dva havrani`,
   `Dvě spálený srdce`, `Husličky`, `Hvězdář`, `Knockin' on heavens door`,
-  `Lásko má, já stůňu`, `Slepic pírka`, `Stín katedrál`) or removing repetitive
-  chords (`Amerika`, `Burlaci`, `Bon Soir Mademoiselle Paris`, `Cesta`, `Čert
-  ví kdy kotvy zvendem`, `Dívka s perlami ve vlasech`, `Dotknu se ohně`,
-  `Hlupák váhá`, `Holky z naší školky`, `Hvězdář`, `Indiana`, `Jdem zpátky do
-  lesů`, `Kluziště`, `Knockin' on heavens door`, `Lásko`, `Moderní děvče`,
-  `Modrá`, `Pocity`, `Rána v trávě`, `Růže z papíru`, `Sandokan`, `Sáro`,
+  `Lásko má, já stůňu`, `Slepic pírka`, `Stín katedrál`) nebo odstraněním
+  opakujících se akordů (`Amerika`, `Burlaci`, `Bon Soir Mademoiselle Paris`,
+  `Cesta`, `Čert ví kdy kotvy zvendem`, `Dívka s perlami ve vlasech`, `Dotknu
+  se ohně`, `Hlupák váhá`, `Holky z naší školky`, `Hvězdář`, `Indiana`, `Jdem
+  zpátky do lesů`, `Kluziště`, `Knockin' on heavens door`, `Lásko`, `Moderní
+  děvče`, `Modrá`, `Pocity`, `Rána v trávě`, `Růže z papíru`, `Sandokan`, `Sáro`,
   `Sen`, `Slepic pírka`, `Stín katedrál`, `Variace na renesanční téma`,
   `Vzpomínky`, `Zatanči`).
-- Removed trailing chords from the end of refrain of the `Možná, že se mýlím`
-  song.
-- Removed the intro of the `Zkamenělý dítě` song.
+- Odstraněny akordy na konci refrénu písně `Možná, že se mýlím`.
+- Odstraněno intro písně `Zkamenělý dítě`.
 
 
-## Version 1.0.0 *(2016-05-16)*
+## Verze 1.0.0 *(2016-05-16)*
 
-### Added
-- Initial version of `savlozuby_zpevnik1` songbook.
+
+### Přidáno
+
+
+- Úvodní verze zpěvníku `oddilovy_zpevnik1`.
