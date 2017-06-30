@@ -61,6 +61,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   next line in the `Nonstop` song.
 - Changed recitatives in the `Prachovské skály` song.
 - Changed key of the `Podvod` song to the F minor. 
+- The trailing `C` chord was changed to `G` in verse of the `Kluziště` song.
 
 
 ### Fixed
@@ -94,6 +95,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - Added czech `CHANGELOG`.
+
+
+### Changed
+
+- The trailing `C` chord was changed to `G` in verse of the `Kluziště` song.
 
 
 ## [Version 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)

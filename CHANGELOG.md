@@ -61,7 +61,8 @@ Formát tohoto changelogu je založen na
 - Akord `A` na konci první řádky písně `Nonstop` byl přesunut na začátek
   následující řádky.
 - Byly změněny recitativy v písni `Prachovské skály`.
-- Tónina písně `Podvod` byla změněna na F moll. 
+- Tónina písně `Podvod` byla změněna na F moll.
+- V písni `Kluziště` změněn ve sloce poslední akord `C` na `G`.
 
 
 ### Opraveno
@@ -95,6 +96,11 @@ Formát tohoto changelogu je založen na
 ### Přidáno
 
 - Přidán český `CHANGELOG`.
+
+
+### Změněno
+
+- V písni `Kluziště` změněn ve sloce poslední akord `C` na `G`.
 
 
 ## [Verze 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
