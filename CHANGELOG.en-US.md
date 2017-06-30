@@ -73,6 +73,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - `C` chord from the beginning of the 3rd line of the verse of the `Smutno je
   mi` song was moved to the end of the 2nd line.
 - `jo` was changed `ho` in the `Tulák` song.
+- Changed key of the `Vrána` song to D major.
 
 
 ### Fixed
@@ -127,6 +128,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - `C` chord from the beginning of the 3rd line of the verse of the `Smutno je
   mi` song was moved to the end of the 2nd line.
 - `jo` was changed `ho` in the `Tulák` song.
+- Changed key of the `Vrána` song to D major.
 
 
 ### Fixed

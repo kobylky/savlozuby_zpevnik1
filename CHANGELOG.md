@@ -72,6 +72,7 @@ Formát tohoto changelogu je založen na
 - Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
   řádku.
 - `jo` v písni `Tulák` změněno na `ho`.
+- Tónina písně `Vrána` byla změněna na D dur.
 
 
 ### Opraveno
@@ -125,6 +126,7 @@ Formát tohoto changelogu je založen na
 - Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
   řádku.
 - `jo` v písni `Tulák` změněno na `ho`.
+- Tónina písně `Vrána` byla změněna na D dur.
 
 
 ### Opraveno
