@@ -76,7 +76,7 @@ Formát tohoto changelogu je založen na
 - Přidána repetice v refrénu písně `Traktor`.
 - Odstraněno `ja chci žít` na konci 2. sloky písně `Nonstop`.
 - Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
-
+- Lehce posunuto několik akordů v písni `Sametová`.
 
 ### Odstraněno
 
@@ -93,6 +93,7 @@ Formát tohoto changelogu je založen na
   `Vzpomínky`, `Zatanči`).
 - Odstraněny akordy na konci refrénu písně `Možná, že se mýlím`.
 - Odstraněno intro písně `Zkamenělý dítě`.
+- Odstraněny poslední akordy refrénu písně `Sametová`.
 
 
 ### [Změny od verze beta 1:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...develop)
@@ -115,6 +116,13 @@ Formát tohoto changelogu je založen na
 
 - Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
 - Překlepy.
+- Lehce posunuto několik akordů v písni `Sametová`.
+
+
+### Odstraněno
+
+- Odstraněny poslední akordy refrénu písně `Sametová`.
+
 
 ## [Verze 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
 

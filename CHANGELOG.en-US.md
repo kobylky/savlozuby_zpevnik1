@@ -73,6 +73,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added repetition to the refrain of the `Traktor` song.
 - Removed last `ja chci žít` from the second verse of the `Nonstop` song.
 - Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
+- Slightly moved some chords in the `Sametová` song.
 
 
 ### Removed
@@ -91,6 +92,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Removed trailing chords from the end of refrain of the `Možná, že se mýlím`
   song.
 - Removed the intro of the `Zkamenělý dítě` song.
+- Trailing chords from refrain of the `Sametová` song were removed.
+
 
 ### [Changes from beta 1:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...develop)
 
@@ -113,6 +116,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
 - Typos.
+- Slightly moved some chords in the `Sametová` song.
+
+
+### Removed
+
+- Trailing chords from refrain of the `Sametová` song were removed.
 
 
 ## [Version 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
