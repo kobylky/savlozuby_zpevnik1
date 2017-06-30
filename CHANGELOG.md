@@ -41,6 +41,7 @@ Formát tohoto changelogu je založen na
 - Přidány bridge do písně `Známka punku`.
 - Přidán český `CHANGELOG`.
 - Přidán akord `D` na konec první části sloky písně `Přítel`.
+- Přidány akordy do coda v písni `Tak nějak málo tančím`.
 
 
 ### Změněno
@@ -106,6 +107,8 @@ Formát tohoto changelogu je založen na
 
 - Přidán český `CHANGELOG`.
 - Přidán akord `D` na konec první části sloky písně `Přítel`.
+- Přidány akordy do coda v písni `Tak nějak málo tančím`.
+
 
 ### Změněno
 

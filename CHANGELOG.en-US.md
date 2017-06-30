@@ -39,6 +39,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added bridges to the `Známka punku` song.
 - Added czech `CHANGELOG`.
 - Added chord `D` at the end of 1st part of verse of the `Přítel` song.
+- Added chords to the coda of the `Tak nějak málo tančím` song.
+
 
 ### Changed
 
@@ -108,6 +110,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Added czech `CHANGELOG`.
 - Added chord `D` at the end of 1st part of verse of the `Přítel` song.
+- Added chords to the coda of the `Tak nějak málo tančím` song.
 
 
 ### Changed
