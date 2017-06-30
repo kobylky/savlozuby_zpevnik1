@@ -103,6 +103,7 @@ Formát tohoto changelogu je založen na
 - Odstraněny akordy na konci refrénu písně `Možná, že se mýlím`.
 - Odstraněno intro písně `Zkamenělý dítě`.
 - Odstraněny poslední akordy refrénu písně `Sametová`.
+- Odstraněny některé akordy na konci řádků v písni `Zkamenělý dítě`.
 
 
 ### [Změny od verze beta 1:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...develop)
@@ -142,6 +143,7 @@ Formát tohoto changelogu je založen na
 ### Odstraněno
 
 - Odstraněny poslední akordy refrénu písně `Sametová`.
+- Odstraněny některé akordy na konci řádků v písni `Zkamenělý dítě`.
 
 
 ## [Verze 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
