@@ -73,6 +73,7 @@ Formát tohoto changelogu je založen na
   řádku.
 - `jo` v písni `Tulák` změněno na `ho`.
 - Tónina písně `Vrána` byla změněna na D dur.
+- Změněn autor písně `Zelené pláně` na `Spirituál kvintet`.
 
 
 ### Opraveno
@@ -127,6 +128,7 @@ Formát tohoto changelogu je založen na
   řádku.
 - `jo` v písni `Tulák` změněno na `ho`.
 - Tónina písně `Vrána` byla změněna na D dur.
+- Změněn autor písně `Zelené pláně` na `Spirituál kvintet`.
 
 
 ### Opraveno

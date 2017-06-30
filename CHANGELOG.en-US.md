@@ -74,6 +74,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   mi` song was moved to the end of the 2nd line.
 - `jo` was changed `ho` in the `Tulák` song.
 - Changed key of the `Vrána` song to D major.
+- Changed author of the `Zelené pláně` song to `Spirituál kvintet`.
 
 
 ### Fixed
@@ -129,6 +130,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   mi` song was moved to the end of the 2nd line.
 - `jo` was changed `ho` in the `Tulák` song.
 - Changed key of the `Vrána` song to D major.
+- Changed author of the `Zelené pláně` song to `Spirituál kvintet`.
 
 
 ### Fixed
