@@ -71,6 +71,7 @@ Formát tohoto changelogu je založen na
 - Poslední řádek písně `Sen` byl trochu pozměněn.
 - Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
   řádku.
+- `jo` v písni `Tulák` změněno na `ho`.
 
 
 ### Opraveno
@@ -121,6 +122,7 @@ Formát tohoto changelogu je založen na
 - Poslední řádek písně `Sen` byl trochu pozměněn.
 - Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
   řádku.
+- `jo` v písni `Tulák` změněno na `ho`.
 
 
 ### Opraveno
