@@ -66,13 +66,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Redundant chord `Dmi` was removed from the verse and `G` and `A7` chords were
   added at the end of the `Předpověď počasí` song.
 
-
 ### Fixed
 
 - Fixed many typos.
 - Added missing first line to the 3rd verse of the `Trail to Island` song.
 - Added repetition to the refrain of the `Traktor` song.
 - Removed last `ja chci žít` from the second verse of the `Nonstop` song.
+- Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
 
 
 ### Removed
@@ -106,6 +106,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Repetitive part of verse was moved to `*:` in the `Podvod` song.
 - Redundant chord `Dmi` was removed from the verse and `G` and `A7` chords were
   added at the end of the `Předpověď počasí` song.
+
+
+### Fixed
+
+- Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
 
 
 ## [Version 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)

@@ -74,6 +74,7 @@ Formát tohoto changelogu je založen na
 - Přidána chybějící první řádka 3. sloky v písni `Trail to Island`.
 - Přidána repetice v refrénu písně `Traktor`.
 - Odstraněno `ja chci žít` na konci 2. sloky písně `Nonstop`.
+- Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
 
 
 ### Odstraněno
@@ -107,6 +108,11 @@ Formát tohoto changelogu je založen na
 - V písni `Podvod` byl opakující se úryvek sloky převeden do `*:`.
 - V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
   refrénu byly přidány akordy `G` a `A7`.
+
+
+### Opraveno
+
+- Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
 
 
 ## [Verze 2.0.0-beta.1 *(2017-06-01)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0-beta.1)
