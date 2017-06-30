@@ -68,6 +68,8 @@ Formát tohoto changelogu je založen na
 - V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
   refrénu byly přidány akordy `G` a `A7`.
 - Poslední řádek písně `Sen` byl trochu pozměněn.
+- Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
+  řádku.
 
 
 ### Opraveno
@@ -114,6 +116,8 @@ Formát tohoto changelogu je založen na
 - V posledním refrénu písně `Sáro` byl změněn akord `F` na `Ami` a `C` na
   `Emi`.
 - Poslední řádek písně `Sen` byl trochu pozměněn.
+- Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
+  řádku.
 
 
 ### Opraveno

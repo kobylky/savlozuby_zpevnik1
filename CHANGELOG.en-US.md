@@ -68,6 +68,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
   `Sáro` song.
 - The last line of the `Sen` song was slightly changed.
+- `C` chord from the beginning of the 3rd line of the verse of the `Smutno je
+  mi` song was moved to the end of the 2nd line.
 
 
 ### Fixed
@@ -117,6 +119,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
   `Sáro` song.
 - The last line of the `Sen` song was slightly changed.
+- `C` chord from the beginning of the 3rd line of the verse of the `Smutno je
+  mi` song was moved to the end of the 2nd line.
 
 
 ### Fixed
