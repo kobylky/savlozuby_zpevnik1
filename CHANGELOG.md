@@ -88,8 +88,8 @@ Formát tohoto changelogu je založen na
   `Cesta`, `Čert ví kdy kotvy zvendem`, `Dívka s perlami ve vlasech`, `Dotknu
   se ohně`, `Hlupák váhá`, `Holky z naší školky`, `Hvězdář`, `Indiana`, `Jdem
   zpátky do lesů`, `Kluziště`, `Knockin' on heavens door`, `Lásko`, `Moderní
-  děvče`, `Modrá`, `Pocity`, `Rána v trávě`, `Růže z papíru`, `Sandokan`, `Sáro`,
-  `Sen`, `Slepic pírka`, `Stín katedrál`, `Variace na renesanční téma`,
+  děvče`, `Modrá`, `Pocity`, `Rána v trávě`, `Růže z papíru`, `Sandokan`,
+  `Sáro`, `Sen`, `Slepic pírka`, `Stín katedrál`, `Variace na renesanční téma`,
   `Vzpomínky`, `Zatanči`).
 - Odstraněny akordy na konci refrénu písně `Možná, že se mýlím`.
 - Odstraněno intro písně `Zkamenělý dítě`.
@@ -110,6 +110,8 @@ Formát tohoto changelogu je založen na
 - V písni `Podvod` byl opakující se úryvek sloky převeden do `*:`.
 - V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
   refrénu byly přidány akordy `G` a `A7`.
+- V posledním refrénu písně `Sáro` byl změněn akord `F` na `Ami` a `C` na
+  `Emi`.
 
 
 ### Opraveno

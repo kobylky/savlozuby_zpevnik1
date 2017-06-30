@@ -65,6 +65,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Repetitive part of verse was moved to `*:` in the `Podvod` song.
 - Redundant chord `Dmi` was removed from the verse and `G` and `A7` chords were
   added at the end of the `Předpověď počasí` song.
+- `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
+  `Sáro` song.
+
 
 ### Fixed
 
@@ -110,6 +113,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Repetitive part of verse was moved to `*:` in the `Podvod` song.
 - Redundant chord `Dmi` was removed from the verse and `G` and `A7` chords were
   added at the end of the `Předpověď počasí` song.
+- `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
+  `Sáro` song.
 
 
 ### Fixed
