@@ -109,6 +109,11 @@ Formát tohoto changelogu je založen na
 ### [Změny od verze beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...develop)
 
 
+### Změněno
+
+- Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
+
+
 ### Opraveno
 
 - Překlepy.

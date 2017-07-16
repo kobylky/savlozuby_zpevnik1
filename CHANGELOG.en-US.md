@@ -111,6 +111,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### [Changes from beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...develop)
 
 
+### Changed
+
+- Ending repetitions of verses and refrain of `Hvězdář` song were slightly
+  changed.
+
+
 ### Fixed
 
 - Typos.
