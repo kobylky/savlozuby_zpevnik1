@@ -120,6 +120,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 
 - Typos.
+- Fixed chords in the `Hrála mi Julii` song.
 
 
 ## [Version 2.0.0-beta.2 *(2017-06-30)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...v2.0.0-beta.2)

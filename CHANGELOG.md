@@ -117,6 +117,7 @@ Formát tohoto changelogu je založen na
 ### Opraveno
 
 - Překlepy.
+- Opraveny akordy v písní `Hrála mi Julii`.
 
 
 ## [Verze 2.0.0-beta.2 *(2017-06-30)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.1...v2.0.0-beta.2)
