@@ -75,6 +75,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - `jo` was changed `ho` in the `Tulák` song.
 - Changed key of the `Vrána` song to D major.
 - Changed author of the `Zelené pláně` song to `Spirituál kvintet`.
+- Ending repetitions of verses and refrain of `Hvězdář` song were slightly
+  changed.
 
 
 ### Fixed
@@ -86,6 +88,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Chord `G` in verse and in refrain was slightly moved in the `Proklínám` song.
 - Slightly moved some chords in the `Sametová` song.
 - Slightly moved some chords in the `Ve skříni` song.
+- Fixed chords in the `Hrála mi Julii` song.
 
 
 ### Removed

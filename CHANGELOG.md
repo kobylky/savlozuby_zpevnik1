@@ -74,6 +74,7 @@ Formát tohoto changelogu je založen na
 - `jo` v písni `Tulák` změněno na `ho`.
 - Tónina písně `Vrána` byla změněna na D dur.
 - Změněn autor písně `Zelené pláně` na `Spirituál kvintet`.
+- Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
 
 
 ### Opraveno
@@ -85,6 +86,7 @@ Formát tohoto changelogu je založen na
 - Ve sloce i v refrénu písně `Proklínám` byl mírně posunut akord `G`.
 - Lehce posunuto několik akordů v písni `Sametová`.
 - Lehce posunuto několik akordů v písni `Ve skříni`.
+- Opraveny akordy v písní `Hrála mi Julii`.
 
 
 ### Odstraněno
