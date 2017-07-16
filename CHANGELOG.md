@@ -75,6 +75,7 @@ Formát tohoto changelogu je založen na
 - Tónina písně `Vrána` byla změněna na D dur.
 - Změněn autor písně `Zelené pláně` na `Spirituál kvintet`.
 - Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
+- Poslední sloka písně `Dvě spálený srdce` byla nahrazena první slokou.
 
 
 ### Opraveno
@@ -114,6 +115,7 @@ Formát tohoto changelogu je založen na
 ### Změněno
 
 - Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
+- Poslední sloka písně `Dvě spálený srdce` byla nahrazena první slokou.
 
 
 ### Opraveno

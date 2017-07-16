@@ -77,6 +77,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Changed author of the `Zelené pláně` song to `Spirituál kvintet`.
 - Ending repetitions of verses and refrain of `Hvězdář` song were slightly
   changed.
+- The last verse of the `Dvě spálený srdce` song was replaced by the first one.
 
 
 ### Fixed
@@ -118,6 +119,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Ending repetitions of verses and refrain of `Hvězdář` song were slightly
   changed.
+- The last verse of the `Dvě spálený srdce` song was replaced by the first one.
 
 
 ### Fixed
