@@ -70,8 +70,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - `F` chord was changed to `Ami` and `C` to `Emi` in the last refrain of the
   `Sáro` song.
 - The last line of the `Sen` song was slightly changed.
-- `C` chord from the beginning of the 3rd line of the verse of the `Smutno je
-  mi` song was moved to the end of the 2nd line.
 - `jo` was changed `ho` in the `Tulák` song.
 - Changed key of the `Vrána` song to D major.
 - Changed author of the `Zelené pláně` song to `Spirituál kvintet`.
@@ -79,6 +77,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   changed.
 - The last verse of the `Dvě spálený srdce` song was replaced by the first one.
 - Chords in the `Obchodník s deštěm` song were moved and slightly modified.
+- Some chords in the `Smutno je mi` song were slightly moved.
 
 
 ### Fixed
@@ -122,6 +121,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   changed.
 - The last verse of the `Dvě spálený srdce` song was replaced by the first one.
 - Chords in the `Obchodník s deštěm` song were moved and slightly modified.
+- Some chords in the `Smutno je mi` song were slightly moved.
 
 
 ### Fixed

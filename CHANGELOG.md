@@ -69,14 +69,13 @@ Formát tohoto changelogu je založen na
 - V písni `Předpověď počasí` byl odstraněn nadbytečný akord `Dmi` a na konec
   refrénu byly přidány akordy `G` a `A7`.
 - Poslední řádek písně `Sen` byl trochu pozměněn.
-- Akord `C` z počátku 3. sloky písně `Smutno je mi` byl přesunut na konec 2.
-  řádku.
 - `jo` v písni `Tulák` změněno na `ho`.
 - Tónina písně `Vrána` byla změněna na D dur.
 - Změněn autor písně `Zelené pláně` na `Spirituál kvintet`.
 - Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
 - Poslední sloka písně `Dvě spálený srdce` byla nahrazena první slokou.
 - Posunuty a upraveny akordy v písni `Obchodník s deštěm`.
+- Některé akordy v písni `Smutno je mi` byly lehce posunuty.
 
 
 ### Opraveno
@@ -118,6 +117,7 @@ Formát tohoto changelogu je založen na
 - Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
 - Poslední sloka písně `Dvě spálený srdce` byla nahrazena první slokou.
 - Posunuty a upraveny akordy v písni `Obchodník s deštěm`.
+- Některé akordy v písni `Smutno je mi` byly lehce posunuty.
 
 
 ### Opraveno
