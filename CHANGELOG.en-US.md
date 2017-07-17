@@ -109,10 +109,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   song.
 - Removed the intro of the `Zkamenělý dítě` song.
 - Trailing chords from refrain of the `Sametová` song were removed.
-- Some trailing chords were removed in the `Zkamenělý dítě` song.
 
 
 ### [Changes from beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...develop)
+
+
+### Added
+
+- Added some chords into the `Zkamenělý dítě` song.
 
 
 ### Changed
