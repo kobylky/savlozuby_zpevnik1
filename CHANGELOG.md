@@ -76,6 +76,7 @@ Formát tohoto changelogu je založen na
 - Změněn autor písně `Zelené pláně` na `Spirituál kvintet`.
 - Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
 - Poslední sloka písně `Dvě spálený srdce` byla nahrazena první slokou.
+- Posunuty a upraveny akordy v písni `Obchodník s deštěm`.
 
 
 ### Opraveno
@@ -116,6 +117,7 @@ Formát tohoto changelogu je založen na
 
 - Závěrečné repetice ve slokách a refrénu písně `Hvězdář` byly lehce pozměněny.
 - Poslední sloka písně `Dvě spálený srdce` byla nahrazena první slokou.
+- Posunuty a upraveny akordy v písni `Obchodník s deštěm`.
 
 
 ### Opraveno
