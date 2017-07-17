@@ -26,6 +26,9 @@ Formát tohoto changelogu je založen na
 ## [Nepublikováno](https://github.com/kobylky/savlozuby_zpevnik1/compare/master...develop)
 
 
+## [Verze 2.0.0 *(2017-07-17)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0)
+
+
 ### Přidáno
 
 - Přidán návod na kompilaci a instalaci LaTeXu a balíčku Songs pro Windows do
@@ -108,7 +111,7 @@ Formát tohoto changelogu je založen na
 - Odstraněny poslední akordy refrénu písně `Sametová`.
 
 
-### [Změny od verze beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...develop)
+### [Změny od verze beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...v2.0.0)
 
 
 ### Přidáno

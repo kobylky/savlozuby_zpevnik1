@@ -24,6 +24,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased](https://github.com/kobylky/savlozuby_zpevnik1/compare/master...develop)
 
 
+## [Version 2.0.0 *(2017-07-17)*](https://github.com/kobylky/savlozuby_zpevnik1/compare/v1.0.0...v2.0.0)
+
+
 ### Added
 
 - Added compilation instructions and installation instructions for LaTeX and
@@ -111,7 +114,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Trailing chords from refrain of the `Sametová` song were removed.
 
 
-### [Changes from beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...develop)
+### [Changes from beta 2:](https://github.com/kobylky/savlozuby_zpevnik1/compare/v2.0.0-beta.2...v2.0.0)
 
 
 ### Added
